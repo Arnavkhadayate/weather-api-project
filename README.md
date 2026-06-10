@@ -17,7 +17,6 @@ A weather application built with JavaScript and Weather API integration.
 
 ## Screenshot
 <img width="1470" height="841" alt="Screenshot 2026-06-10 at 3 37 55 PM" src="https://github.com/user-attachments/assets/67c1aff0-8a8a-4448-8c71-d4ddcb415565" />
-![Weather App](screenshots/home.png)
 
 ## Future Improvements
 
